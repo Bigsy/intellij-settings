@@ -5,6 +5,7 @@
     <option name="highlightUnresolved" value="false" />
     <option name="editorTabStyle" value="0" />
     <option name="replHistorySize" value="99999999" />
+    <option name="replHighlightLines" value="5000" />
     <option name="useStructuralEditing" value="false" />
   </component>
 </application>
