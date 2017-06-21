@@ -2,5 +2,6 @@
   <component name="ReplCommandManager">
     <repl-command name="stop" executionType="EXPRESSION" commandText="(user/stop)" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="" />
     <repl-command name="start" executionType="EXPRESSION" commandText="(user/start)" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="" />
+    <repl-command name="Compile AOT" executionType="EXPRESSION" commandText="(compile (symbol (str clojure.core/*ns*)))" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="" />
   </component>
 </application>
