@@ -1,11 +1,5 @@
 <application>
   <component name="ClojureIdeSettings">
-    <option name="coloredParentheses" value="true" />
-    <option name="separateREPLItems" value="true" />
-    <option name="highlightUnresolved" value="false" />
-    <option name="editorTabStyle" value="0" />
-    <option name="replHistorySize" value="99999999" />
-    <option name="replHighlightLines" value="5000" />
-    <option name="useStructuralEditing" value="false" />
+    <option name="structuralStyle" value="0" />
   </component>
 </application>
