@@ -44,6 +44,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/losses" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/real_time_billing" />
   </component>
 </application>
