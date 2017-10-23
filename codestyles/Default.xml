@@ -1,1 +1,8 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/align-binding-forms true
+  :cursive.formatting/default-only-indent true
+  :cursive.formatting/imports-use-vectors true
+  :cursive.formatting/one-space-lists true
+}</ClojureCodeStyleSettings>
+</code_scheme>
