@@ -2,7 +2,5 @@
   <ClojureCodeStyleSettings>{
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/default-only-indent true
-  :cursive.formatting/imports-use-vectors true
-  :cursive.formatting/one-space-lists true
 }</ClojureCodeStyleSettings>
 </code_scheme>
