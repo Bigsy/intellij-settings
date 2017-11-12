@@ -28,6 +28,7 @@
   </action>
   <action id=":cursive.actions.paredit/kill-sexp">
     <keyboard-shortcut first-keystroke="meta alt k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id=":cursive.actions.paredit/move-form-down">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -102,6 +103,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="Console.Jpa.GenerateDDL" />
+  <action id="ConvertJavaToKotlin" />
   <action id="Cursive.Repl.Command.start">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
