@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_SCALE" value="1.0833334" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
