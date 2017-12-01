@@ -1,5 +1,8 @@
 <application>
   <component name="ClojureIdeSettings">
+    <option name="coloredParentheses" value="true" />
+    <option name="separateREPLItems" value="true" />
     <option name="structuralStyle" value="0" />
+    <option name="confirmReplExit" value="false" />
   </component>
 </application>
