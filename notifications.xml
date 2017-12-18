@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Force Shortcuts" shouldLog="false" />
     <notification groupId="Leiningen unindexed repositories detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>
