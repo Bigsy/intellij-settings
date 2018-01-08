@@ -5,6 +5,7 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
