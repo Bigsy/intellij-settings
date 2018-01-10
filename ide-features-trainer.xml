@@ -1,0 +1,152 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="myMap">
+      <map>
+        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
+        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
+        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
+        <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
+        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
+        <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
+        <entry key="EditorBasics.Move" value="NOT_PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
+        <entry key="EditorBasics.Selection" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
+        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="PASSED" />
+        <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
+        <entry key="Refactorings.Rename" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578442723" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578493085" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.SmartTypeCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578490952" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.StatementCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578492611" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578318996" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.CommentLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578217162" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15399" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578252537" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578274240" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578332290" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578133549" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1515578647534" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="37036" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="39508" />
+            </StatisticData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
