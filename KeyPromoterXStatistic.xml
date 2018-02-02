@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>111</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
