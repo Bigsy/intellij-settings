@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
