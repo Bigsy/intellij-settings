@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
   <ClojureCodeStyleSettings>{
+  :clojure.core/defn 1000
+  :clojure.core/fn 1000
+  :clojure.core/fn* 2
+  :clojure.core.typed/loop&gt; 2
+  :clojure.core.typed.macros/defn 1000
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/default-only-indent true
 }</ClojureCodeStyleSettings>
