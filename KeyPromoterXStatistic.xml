@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>FileChooser.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
