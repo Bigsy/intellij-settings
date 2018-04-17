@@ -27,8 +27,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id=":cursive.actions.paredit/kill-sexp">
-    <keyboard-shortcut first-keystroke="meta alt k" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id=":cursive.actions.paredit/move-form-down">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
