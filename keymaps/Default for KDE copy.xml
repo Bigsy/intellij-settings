@@ -54,6 +54,9 @@
   <action id=":cursive.actions.paredit/thread-form">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id=":cursive.actions.paredit/toggle">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id=":cursive.actions.paredit/unthread-form">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
