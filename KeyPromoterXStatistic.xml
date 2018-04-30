@@ -49,6 +49,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Directory Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>Directory Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Duplicate">
         <Item>
           <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
