@@ -7,5 +7,6 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.tooltip.initialDelay" value="597" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
