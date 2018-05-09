@@ -44,8 +44,11 @@
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
-  <action id=":cursive.actions.paredit/splice">
-    <keyboard-shortcut first-keystroke="alt s" />
+  <action id=":cursive.actions.paredit/splice-killing-backwards">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id=":cursive.actions.paredit/splice-killing-forwards">
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="shift alt s" />
