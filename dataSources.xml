@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="UAT-INTEGRATION@35.195.101.174" uuid="af3006a9-9cfd-4f91-9b32-cabc6a5e373e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.195.101.174:5432/integration</jdbc-url>
+    </data-source>
+  </component>
+</application>
