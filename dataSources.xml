@@ -6,5 +6,14 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.101.174:5432/integration</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="contractsUAT@localhost-embedded" uuid="7658ab6d-6790-4bc0-8165-f36dcd99c038">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.199.103.59:5432/integration</jdbc-url>
+      <driver-properties>
+        <property name="ApplicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
