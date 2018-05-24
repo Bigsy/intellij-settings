@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -78,7 +78,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>520</Count>
+          <Count>539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for consumption-charges-api'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for standing-charges-service'">
