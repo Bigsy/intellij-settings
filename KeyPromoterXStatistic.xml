@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>571</Count>
+          <Count>574</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
