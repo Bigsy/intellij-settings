@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>47</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -46,7 +46,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -78,7 +78,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>515</Count>
+          <Count>539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -126,7 +126,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for consumption-charges-api'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for standing-charges-service'">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for standing-charges-service'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'consumption_streams'">
