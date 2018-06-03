@@ -233,6 +233,22 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'fig_background'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'fig_background'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'fig_popup'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'fig_popup'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'remote'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
