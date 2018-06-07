@@ -83,11 +83,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/jazzytomato/hnlookup.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/binaryage/chromex-sample.git" />
+          <option name="url" value="git@github.com:ovotech/ds-viewer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
