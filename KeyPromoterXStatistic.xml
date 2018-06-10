@@ -54,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -102,7 +102,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Console">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -190,7 +198,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>20</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -319,6 +327,30 @@
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Deleting directory test">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Deleting directory test</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Renaming namespace background ...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Renaming namespace background ...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Renaming namespace tests to ba...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Renaming namespace tests to ba...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
