@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>663</Count>
+          <Count>664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
