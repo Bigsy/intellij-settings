@@ -107,18 +107,33 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="Console.Jpa.GenerateDDL" />
   <action id="ConvertJavaToKotlin" />
+  <action id="Cursive.Repl.Command.reset igr">
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+  </action>
   <action id="Cursive.Repl.Command.start">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="Cursive.Repl.Command.start igr">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
   </action>
   <action id="Cursive.Repl.Command.stop">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="Cursive.Repl.Command.stop igr">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+  </action>
   <action id="EditorUnSelectWord" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Macro.spyp">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
