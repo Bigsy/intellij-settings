@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>840</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -198,7 +198,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -263,6 +263,22 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for consumption-charges-api'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'REPL for datomic-tutorial'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for datomic-tutorial'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'REPL for day-of-datomic'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for day-of-datomic'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for ducttest'">
