@@ -110,7 +110,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>843</Count>
+          <Count>858</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next REPL history item">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/next-history-item</IdeaActionID>
+          <ShortCut>'Ctrl+Down'</ShortCut>
+          <Description>Next REPL history item</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Console">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
@@ -191,6 +199,14 @@
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous REPL history item">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/prev-history-item</IdeaActionID>
+          <ShortCut>'Ctrl+Up'</ShortCut>
+          <Description>Previous REPL history item</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -342,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for tariffs-service'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
