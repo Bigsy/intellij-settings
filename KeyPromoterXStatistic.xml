@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>116</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -110,7 +110,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>62</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>922</Count>
+          <Count>929</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -182,7 +182,7 @@
           <IdeaActionID>:cursive.repl.actions/next-history-item</IdeaActionID>
           <ShortCut>'Ctrl+Down'</ShortCut>
           <Description>Next REPL history item</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -214,7 +214,7 @@
           <IdeaActionID>:cursive.repl.actions/prev-history-item</IdeaActionID>
           <ShortCut>'Ctrl+Up'</ShortCut>
           <Description>Previous REPL history item</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -431,6 +431,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testing'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'Alt+Delete'</ShortCut>
+          <Description>Safe Delete...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
