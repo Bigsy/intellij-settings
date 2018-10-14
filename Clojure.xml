@@ -4,7 +4,7 @@
     <option name="separateREPLItems" value="true" />
     <option name="editorTabStyle" value="0" />
     <option name="arrowKeysCanMoveInHistory" value="false" />
-    <option name="structuralStyle" value="0" />
+    <option name="structuralStyle" value="1" />
     <option name="confirmReplExit" value="false" />
   </component>
 </application>
