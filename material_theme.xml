@@ -4,9 +4,10 @@
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="40" />
     <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-94e0f1b:1674b0d9092:-8000" />
     <option name="version" value="3.0.0-pre4" />
   </component>
