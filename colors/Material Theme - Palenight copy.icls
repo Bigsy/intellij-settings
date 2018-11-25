@@ -1,12 +1,13 @@
 <scheme name="Material Theme - Palenight copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-03T09:19:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-03-23T10:53:09</property>
+    <property name="modified">2018-11-25T13:58:51</property>
     <property name="originalScheme">_@user_Material Theme - Palenight</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -48,6 +49,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="828ed5" />
     <option name="MODIFIED_LINES_COLOR" value="99b89d" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="READONLY_BACKGROUND" value="292929" />
     <option name="RIGHT_MARGIN_COLOR" value="828ed5" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="303348" />
