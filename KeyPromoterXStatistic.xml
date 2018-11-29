@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1302</Count>
+          <Count>1305</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -238,7 +238,7 @@
           <IdeaActionID>:cursive.repl.actions/prev-history-item</IdeaActionID>
           <ShortCut>'Ctrl+Up'</ShortCut>
           <Description>Previous REPL history item</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -566,6 +566,14 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Renaming namespace tests to ba...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View expansion of '(-&gt;&gt; (if-let [v ...)'">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/macroexpansion</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+\'</ShortCut>
+          <Description>View expansion of '(-&gt;&gt; (if-let [v ...)'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
