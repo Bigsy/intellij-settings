@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1395</Count>
+          <Count>1399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -334,7 +334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for consumption-charges-api'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for contracts-api'">
