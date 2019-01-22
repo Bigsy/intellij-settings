@@ -1,9 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="Clojure Namespace.clj" reformat="false" live-template-enabled="false" enabled="true" />
-      <template name="Clojure Test Namespace.clj" reformat="false" live-template-enabled="false" enabled="true" />
-      <template name="ClojureScript Namespace.cljs" reformat="false" live-template-enabled="false" enabled="true" />
-    </internal_templates>
-  </component>
-</application>

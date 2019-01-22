@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Force Shortcuts" shouldLog="false" />
-    <notification groupId="Leiningen unindexed repositories detection" displayType="NONE" shouldLog="false" />
-  </component>
-</application>

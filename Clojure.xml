@@ -1,9 +1,0 @@
-<application>
-  <component name="ClojureIdeSettings">
-    <option name="coloredParentheses" value="true" />
-    <option name="separateREPLItems" value="true" />
-    <option name="replHighlightLines" value="1000" />
-    <option name="structuralStyle" value="1" />
-    <option name="confirmReplExit" value="false" />
-  </component>
-</application>

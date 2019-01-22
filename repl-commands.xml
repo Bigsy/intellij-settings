@@ -1,7 +1,0 @@
-<application>
-  <component name="ReplCommandManager">
-    <repl-command name="start igr" executionType="EXPRESSION" commandText="(start)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
-    <repl-command name="reset igr" executionType="EXPRESSION" commandText="(reset)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
-    <repl-command name="stop igr" executionType="EXPRESSION" commandText="(stop)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
-  </component>
-</application>
