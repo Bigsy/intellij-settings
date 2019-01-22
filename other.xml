@@ -1,0 +1,46 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="ColorChooser.RecentColors" value="184-195-195-255,,,101-103-188-255,,,90-139-208-255,,,95-187-224-255,,,120-151-82-255,,,155-81-10-255,,,44-255-250-255,,,9-255-175-255,,,168-185-185-255,,,154-170-170-255,,,167-184-184-255,,,128-232-79-255,,,178-0-28-255,,,193-210-210-255,,,183-179-175-255,,,255-136-14-255,,,14-153-255-255,,,43-43-43-255,,,27-27-27-255,,,26-26-26-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="KEYMAP" value="macro&#10;repl&#10;clojure&#10;send&#10;switch" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesClojure" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="macros&#10;macro" />
+    <property name="SettingsSearchHistory" value="inspections&#10;gfm&#10;plug&#10;spell&#10;highlight" />
+    <property name="SplitFileEditor.Proportion" value="0.39616057" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="markdown&#10;theme" />
+    <property name="color.picker.is.hsb" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="cursive.eap.updates.asked" value="true" />
+    <property name="cursive.evaluation.days.warned" value="25" />
+    <property name="cursive.evaluation.timestamp" value="1541881928339" />
+    <property name="cursive.repl.ClojureConsole.softwrap" value="true" />
+    <property name="cursive.repl.ClojureConsole.splitter" value="0.7808219" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/EC&#10;/home/hedworth/workspace/EC/consumption-charges-api&#10;/home/hedworth&#10;/home/hedworth/workspace/EC/standing-charges-service&#10;/home/hedworth/workspace/EC/contracts-api&#10;/home/hedworth/workspace/EC/tariffs-service&#10;/usr/lib/jvm/java-8-openjdk&#10;/usr/lib/jvm/java-11-openjdk" />
+    <property name="file.gist.reindex.count" value="284" />
+    <property name="fileTypeChangedCounter" value="50" />
+    <property name="find.popup.splitter" value="0.63797694" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="lastTip" value="2" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="param.hints.settings.last.edited.language" value="Groovy" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="selected.color.option.type" value="MT_DIRECTORIES" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.3653323" />
+  </component>
+</application>

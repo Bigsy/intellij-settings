@@ -1,0 +1,5 @@
+<code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/align-binding-forms true
+}</ClojureCodeStyleSettings>
+</code_scheme>
