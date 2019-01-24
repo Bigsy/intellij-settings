@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1448</Count>
+          <Count>1449</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateREPLToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>REPL</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for contracts-api'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for datomic-tutorial'">
