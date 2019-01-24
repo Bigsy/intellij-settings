@@ -1,15 +1,10 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="SBT.system.in.process" value="true" />
-    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="597" />
-    <entry key="search.everywhere.settings" value="true" />
-    <entry key="BSP.experimental.feature.enabled" value="false" />
-    <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
     <entry key="win.editor.thumb.default.alpha.delta" value="102" />
@@ -18,5 +13,8 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="SBT.system.in.process" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>

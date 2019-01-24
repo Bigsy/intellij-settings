@@ -1,143 +1,33 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
-  <action id=":cursive.actions.paredit/backward">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
-  <action id=":cursive.actions.paredit/barf-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
-  </action>
-  <action id=":cursive.actions.paredit/barf-forwards">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
-  </action>
-  <action id=":cursive.actions.paredit/close-curly-and-newline">
-    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
-  </action>
-  <action id=":cursive.actions.paredit/close-paren-and-newline">
-    <keyboard-shortcut first-keystroke="shift ctrl 0" />
-  </action>
-  <action id=":cursive.actions.paredit/close-square-and-newline">
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
-  </action>
-  <action id=":cursive.actions.paredit/copy-as-kill">
-    <keyboard-shortcut first-keystroke="shift meta k" />
-  </action>
-  <action id=":cursive.actions.paredit/forward">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-  </action>
-  <action id=":cursive.actions.paredit/join">
-    <keyboard-shortcut first-keystroke="ctrl meta s" />
-  </action>
-  <action id=":cursive.actions.paredit/kill-sexp">
-    <keyboard-shortcut first-keystroke="shift alt k" />
-  </action>
-  <action id=":cursive.actions.paredit/move-form-down">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id=":cursive.actions.paredit/move-form-up">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-  </action>
-  <action id=":cursive.actions.paredit/raise">
-    <keyboard-shortcut first-keystroke="ctrl quote" />
-  </action>
-  <action id=":cursive.actions.paredit/slurp-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
-  </action>
-  <action id=":cursive.actions.paredit/slurp-forwards">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id=":cursive.actions.paredit/splice-killing-backwards">
-    <keyboard-shortcut first-keystroke="shift alt comma" />
-  </action>
-  <action id=":cursive.actions.paredit/splice-killing-forwards">
-    <keyboard-shortcut first-keystroke="shift alt period" />
-  </action>
-  <action id=":cursive.actions.paredit/split">
-    <keyboard-shortcut first-keystroke="shift alt s" />
-  </action>
-  <action id=":cursive.actions.paredit/thread-form">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
-  <action id=":cursive.actions.paredit/toggle">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
-  <action id=":cursive.actions.paredit/unthread-form">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-curly">
-    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-paren">
-    <keyboard-shortcut first-keystroke="shift ctrl 9" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-quotes">
-    <keyboard-shortcut first-keystroke="shift ctrl quote" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-square">
-    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-  </action>
-  <action id=":cursive.repl.actions/jump-to-repl">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
-  <action id=":cursive.repl.actions/load-file">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
-  </action>
   <action id=":cursive.repl.actions/run-last-sexp">
-    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
-  </action>
-  <action id=":cursive.repl.actions/run-top-sexp">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
-  <action id=":cursive.repl.actions/search-history">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id=":cursive.repl.actions/switch-namespace">
-    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
-  </action>
-  <action id=":cursive.repl.actions/sync-files">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="shift alt quote" />
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
-    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id=":cursive.testing.actions/rerun-last-test">
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id=":cursive.testing.actions/run-ns-tests">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id=":cursive.testing.actions/run-single-test">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="Console.Jpa.GenerateDDL" />
-  <action id="ConvertJavaToKotlin" />
-  <action id="Cursive.Repl.Command.reset igr">
-    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
-  <action id="Cursive.Repl.Command.start">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
-  <action id="Cursive.Repl.Command.start igr">
-    <keyboard-shortcut first-keystroke="shift ctrl 1" />
-  </action>
-  <action id="Cursive.Repl.Command.stop">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
-  <action id="Cursive.Repl.Command.stop igr">
-    <keyboard-shortcut first-keystroke="shift ctrl 2" />
-  </action>
-  <action id="EditorUnSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Macro.spyp">
+  <action id="Macro.spy/p">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
-  </action>
   <action id="ParameterInfo" />
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
-  </action>
-  <action id="Scala.GoToImplicit" />
+  <action id="RecentChanges" />
+  <action id="RerunTests" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
