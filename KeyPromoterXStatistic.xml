@@ -134,7 +134,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>132</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
