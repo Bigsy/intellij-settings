@@ -134,7 +134,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1490</Count>
+          <Count>1492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -302,7 +302,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -590,6 +590,14 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Switch REPL NS to current file">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/switch-namespace</IdeaActionID>
+          <ShortCut>'Alt+Shift+Quote'</ShortCut>
+          <Description>Switch REPL NS to current file</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
