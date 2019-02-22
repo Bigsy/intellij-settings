@@ -14,9 +14,13 @@
           <option name="url" value="git@github.com:ovotech/energy-contracts-specs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dlebrero/kafka-streams-and-ktable-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/EC" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/examples/kafka" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
