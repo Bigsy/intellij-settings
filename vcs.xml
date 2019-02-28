@@ -20,7 +20,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/examples/kafka" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/ec" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
