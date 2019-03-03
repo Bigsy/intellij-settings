@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -630,7 +630,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
