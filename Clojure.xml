@@ -2,7 +2,7 @@
   <component name="ClojureIdeSettings">
     <option name="coloredParentheses" value="true" />
     <option name="separateREPLItems" value="true" />
-    <option name="structuralStyle" value="0" />
+    <option name="structuralStyle" value="1" />
     <option name="twoSemicolonComments" value="true" />
   </component>
 </application>
