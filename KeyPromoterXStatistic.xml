@@ -33,6 +33,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>DDL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
