@@ -1,16 +1,22 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="contractsUAT" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
+    <data-source source="LOCAL" name="contractsUAT" read-only="true" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.199.103.59:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="contractsPRD" uuid="d2533253-5d59-455b-a52a-504d6bbaaffc">
+    <data-source source="LOCAL" name="contractsPRD" read-only="true" uuid="d2533253-5d59-455b-a52a-504d6bbaaffc">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.178.241:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@localhost" uuid="2596b0e9-7091-44c5-925c-48943d4c14a3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:54321/postgres</jdbc-url>
     </data-source>
   </component>
 </application>
