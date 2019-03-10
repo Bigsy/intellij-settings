@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>204</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1545</Count>
+          <Count>1548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
