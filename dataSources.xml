@@ -24,5 +24,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.205.16.43:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="TariffsPRD" read-only="true" uuid="fca1e0cc-33b9-4bb4-9719-1344214f6d80">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.199.50.205:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
