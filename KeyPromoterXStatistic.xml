@@ -142,7 +142,7 @@
           <IdeaActionID>ShowFilePath</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
           <Description>File Path</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
