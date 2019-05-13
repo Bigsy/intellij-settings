@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:Bigsy/ktable-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ovotech/flow-platform-ingestion.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/ec" />
