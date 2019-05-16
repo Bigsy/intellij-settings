@@ -22,7 +22,15 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>257</Count>
+          <Count>260</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>15</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -726,7 +734,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="View expansion of '(-&gt;&gt; (if-let [v ...)'">
