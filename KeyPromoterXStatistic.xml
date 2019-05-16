@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'REPL for cost-projections'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'REPL for cost-projections'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'fig'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>75</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -334,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>9</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -711,6 +719,14 @@
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="View expansion of '(-&gt;&gt; (if-let [v ...)'">
