@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>267</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -607,6 +607,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testing'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'uat'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'uat'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
