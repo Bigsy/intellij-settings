@@ -590,7 +590,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'repl'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test1'">
@@ -678,7 +678,7 @@
           <IdeaActionID>:cursive.repl.actions/switch-namespace</IdeaActionID>
           <ShortCut>'Alt+Shift+Quote'</ShortCut>
           <Description>Switch REPL NS to current file</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
