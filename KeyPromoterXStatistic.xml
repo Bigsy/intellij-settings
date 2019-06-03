@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>287</Count>
+          <Count>288</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -182,7 +182,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
