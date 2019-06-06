@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>294</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>200</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
