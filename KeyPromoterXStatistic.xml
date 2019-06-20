@@ -358,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>103</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -671,6 +671,22 @@
           <ShortCut>'Ctrl+Quote'</ShortCut>
           <Description>Show Grid</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>97</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'consumption_streams'">
