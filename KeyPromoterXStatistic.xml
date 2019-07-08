@@ -22,7 +22,15 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>226</Count>
+          <Count>315</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -49,12 +57,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'REPL for consumption-charges-api'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'REPL for consumption-charges-api'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'REPL for cost-projections'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'REPL for cost-projections'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'fig'">
@@ -78,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -142,7 +166,7 @@
           <IdeaActionID>ShowFilePath</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
           <Description>File Path</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -158,7 +182,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>185</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -191,6 +215,14 @@
           <ShortCut>'Ctrl+Quote'</ShortCut>
           <Description>Hide Grid</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Insert link">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.InsertLink</IdeaActionID>
+          <ShortCut>'Meta+L'</ShortCut>
+          <Description>Insert link</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -254,7 +286,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -286,7 +318,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -326,7 +358,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>56</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -334,7 +366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>9</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -342,7 +374,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -377,12 +409,28 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'REPL for consumption-kstreams-ktable'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for consumption-kstreams-ktable'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'REPL for contracts-api'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for contracts-api'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'REPL for cost-projections'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for cost-projections'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for datomic-tutorial'">
@@ -414,7 +462,23 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for energy-contracts-specs'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'REPL for energy-contracts-tools'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for energy-contracts-tools'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'REPL for jackdaw'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'REPL for jackdaw'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for kafka-event-archiver'">
@@ -438,7 +502,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for kafka-streams-example'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for our-service'">
@@ -478,7 +542,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'REPL for standing-charges-service'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL for tariffs-service'">
@@ -550,7 +614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'repl'</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test1'">
@@ -567,6 +631,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testing'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'uat'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'uat'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
@@ -609,6 +681,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>97</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'consumption_streams'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -630,7 +718,7 @@
           <IdeaActionID>:cursive.repl.actions/switch-namespace</IdeaActionID>
           <ShortCut>'Alt+Shift+Quote'</ShortCut>
           <Description>Switch REPL NS to current file</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -695,6 +783,14 @@
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="View expansion of '(-&gt;&gt; (if-let [v ...)'">

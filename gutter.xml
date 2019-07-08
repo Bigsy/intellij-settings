@@ -16,6 +16,10 @@
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
         <entry key="java.sibling.inherited" value="true" />
+        <entry key="js.implemented" value="true" />
+        <entry key="js.implementing" value="true" />
+        <entry key="js.overridden" value="true" />
+        <entry key="js.overriding" value="true" />
       </map>
     </option>
   </component>
