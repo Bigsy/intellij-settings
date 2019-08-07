@@ -7,6 +7,7 @@
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
