@@ -30,5 +30,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.199.50.205:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="StandingChargesUAT" read-only="true" uuid="f0295b3f-28bb-403d-a2dd-272b411678f1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.195.101.174:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
