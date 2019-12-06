@@ -20,19 +20,29 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="IntroduceParameter" />
   <action id="Macro.spy/p">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
   <action id="RecentChanges" />
   <action id="RerunTests" />
+  <action id="RunJsbtTask" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
 </keymap>
