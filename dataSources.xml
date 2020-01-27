@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="contractsUAT" read-only="true" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
+    <data-source source="LOCAL" name="contractsUAT" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
