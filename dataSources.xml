@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="contractsUAT" read-only="true" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
+    <data-source source="LOCAL" name="contractsUAT" uuid="1c43037a-9678-48c2-8292-26dee3ad219d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -30,11 +30,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.199.50.205:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="StandingChargesUAT" read-only="true" uuid="f0295b3f-28bb-403d-a2dd-272b411678f1">
+    <data-source source="LOCAL" name="StandingChargesUAT" uuid="f0295b3f-28bb-403d-a2dd-272b411678f1">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.101.174:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TariffsUAT" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.205.68.107:5432/postgres</jdbc-url>
     </data-source>
   </component>
 </application>
