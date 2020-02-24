@@ -42,7 +42,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.205.68.107:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="contractsPRD [2]" read-only="true" uuid="eda17dd6-0fec-42bc-b235-44daef0d2684">
+    <data-source source="LOCAL" name="commsPRD" read-only="true" uuid="eda17dd6-0fec-42bc-b235-44daef0d2684">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
