@@ -48,5 +48,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.233.91.162:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="costProjectionsPRD [2]" read-only="true" uuid="ee81d07b-f7cd-4031-a262-430291fd4f11">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.241.213.96:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
