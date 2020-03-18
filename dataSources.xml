@@ -30,11 +30,29 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.199.50.205:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="StandingChargesUAT" read-only="true" uuid="f0295b3f-28bb-403d-a2dd-272b411678f1">
+    <data-source source="LOCAL" name="StandingChargesUAT" uuid="f0295b3f-28bb-403d-a2dd-272b411678f1">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.101.174:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TariffsUAT" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.205.68.107:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="commsPRD" read-only="true" uuid="eda17dd6-0fec-42bc-b235-44daef0d2684">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.233.91.162:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="costProjectionsPRD [2]" read-only="true" uuid="ee81d07b-f7cd-4031-a262-430291fd4f11">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://35.241.213.96:5432/postgres</jdbc-url>
     </data-source>
   </component>
 </application>
