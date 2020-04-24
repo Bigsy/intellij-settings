@@ -16,7 +16,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:54321/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="StandingChargesPRD" read-only="true" uuid="d49b618d-b528-4b6c-92d3-32b9dc3ccdbc">
       <driver-ref>postgresql</driver-ref>
