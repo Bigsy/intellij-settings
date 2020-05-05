@@ -36,11 +36,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.101.174:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="TariffsUAT" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
+    <data-source source="LOCAL" name="TariffsUAT-PF" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://35.205.68.107:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:3306/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="commsPRD" read-only="true" uuid="eda17dd6-0fec-42bc-b235-44daef0d2684">
       <driver-ref>postgresql</driver-ref>
