@@ -52,7 +52,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://35.241.213.96:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:3307/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="contractsPerformance" uuid="d9502e90-3695-4972-b198-19b935702813">
       <driver-ref>postgresql</driver-ref>
