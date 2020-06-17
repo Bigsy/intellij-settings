@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="spy">
+      <typing text-keycode="520:0;83:0;80:0;89:0;47:0;80:0">#spy/p</typing>
+    </macro>
+  </component>
+</application>
