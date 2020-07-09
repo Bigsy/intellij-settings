@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="spy">
+      <typing text-keycode="520:0;47:0;83:0;80:0;89:0;80:0">#/spyp</typing>
+      <action id="SearchEverywhere" />
+      <typing text-keycode="77:0;65:0;67:0;82:0;79:0">macro</typing>
+    </macro>
+  </component>
+</application>
