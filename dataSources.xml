@@ -16,7 +16,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:54321/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="StandingChargesPRD" read-only="true" uuid="d49b618d-b528-4b6c-92d3-32b9dc3ccdbc">
       <driver-ref>postgresql</driver-ref>
@@ -36,23 +36,35 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://35.195.101.174:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="TariffsUAT" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
+    <data-source source="LOCAL" name="TariffsUAT-PF" uuid="40ade4e4-6386-4bfc-b613-abeda9aec94a">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://35.205.68.107:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:3306/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="commsPRD" read-only="true" uuid="eda17dd6-0fec-42bc-b235-44daef0d2684">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://35.233.91.162:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:3304/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="costProjectionsPRD [2]" read-only="true" uuid="ee81d07b-f7cd-4031-a262-430291fd4f11">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://35.241.213.96:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:3307/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="contractsPerformance" uuid="d9502e90-3695-4972-b198-19b935702813">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.199.103.59:5432/performance</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="contractsINT" uuid="83f7594f-5c87-4870-8375-52556d2b7748">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://104.199.103.59:5432/integration</jdbc-url>
     </data-source>
   </component>
 </application>

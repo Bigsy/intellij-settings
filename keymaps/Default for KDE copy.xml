@@ -29,6 +29,9 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="IntroduceParameter" />
+  <action id="Macro.spy">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="Macro.spy/p">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
