@@ -66,5 +66,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://104.199.103.59:5432/integration</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ContractUpdatePRD-PF" uuid="301608b6-f619-4406-96c0-b9249540dce4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:3308/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ContractUpdateUAT-PF" uuid="c44f9b7d-8042-4f9e-8716-d3959b155988">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:3308/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
