@@ -78,5 +78,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:3308/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ContractUpdateINT-PF" uuid="33dc43c0-29d3-4eee-a132-45755e156ad0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:3309/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
