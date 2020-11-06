@@ -5,6 +5,7 @@
       <mapping pattern="export_integration_tests_env" type="PLAIN_TEXT" />
       <mapping pattern="keystore_username" type="PLAIN_TEXT" />
       <mapping pattern="download_aiven_secrets" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
