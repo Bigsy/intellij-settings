@@ -705,6 +705,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
@@ -1632,6 +1650,11 @@
                   <entry key="ClojureScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Clojure Application" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
+                    </value>
+                  </entry>
+                  <entry key="ClojureTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="clojure.test" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
