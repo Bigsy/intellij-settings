@@ -4,21 +4,21 @@
     <property name="created">2018-11-26T09:04:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2020-10-20T11:19:04</property>
+    <property name="modified">2020-12-09T09:33:41</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hasklig" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hasklig" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
@@ -458,11 +458,6 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -1419,11 +1414,6 @@
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
