@@ -1,5 +1,6 @@
 <application>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Source Code Pro Medium" />
     <option name="USE_LIGATURES" value="true" />
   </component>
