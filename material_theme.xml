@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
@@ -9,6 +10,7 @@
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
@@ -21,8 +23,8 @@
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="23" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-7ce25f28:1674f40fa22:-8000" />
     <option name="version" value="5.5.0" />
   </component>
