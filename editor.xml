@@ -1,8 +1,9 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="Source Code Pro Medium" />
+    <option name="FONT_FAMILY" value="Hasklig" />
+    <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
