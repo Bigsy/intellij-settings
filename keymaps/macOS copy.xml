@@ -1,4 +1,12 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id=":cursive.repl.actions/clear-repl">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
